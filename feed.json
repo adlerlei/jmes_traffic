@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jmes_traffic",
+    "description": "",
+    "home_page_url": "https://adlerlei.github.io/jmes_traffic",
+    "feed_url": "https://adlerlei.github.io/jmes_traffic/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jianyinli"
+    },
+    "items": [
+    ]
+}
