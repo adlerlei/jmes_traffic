@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://adlerlei.github.io/jmes_traffic/ji-mei-ju-chang-zi-zhi-jiao-xue-ying-pian-lian-jie.html",
+            "url": "https://adlerlei.github.io/jmes_traffic/ji-mei-ju-chang-zi-zhi-jiao-xue-ying-pian-lian-jie.html",
+            "title": "集美劇場自製教學影片連結",
+            "summary": "集美劇場自製教學影片連結交通安全宣導集美劇場-117交通安全1集美劇場-118交通安全2遊戲安全宣導1遊戲安全宣導2遊戲安全宣導集美劇場 94玩得安全",
+            "content_html": "<h2 class=\"p1\">集美劇場自製教學影片連結</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://adlerlei.github.io/jmes_traffic/media/posts/39/flame-teamwork.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://adlerlei.github.io/jmes_traffic/media/posts/39/responsive/flame-teamwork-xs.png 300w ,https://adlerlei.github.io/jmes_traffic/media/posts/39/responsive/flame-teamwork-sm.png 480w ,https://adlerlei.github.io/jmes_traffic/media/posts/39/responsive/flame-teamwork-md.png 768w\"  alt=\"\" width=\"912\" height=\"911\"></figure>\n<ol>\n<li class=\"title style-scope ytd-video-primary-info-renderer\">交通安全宣導\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/39DGC3VNPVw\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</li>\n<li class=\"title style-scope ytd-video-primary-info-renderer\">集美劇場-117交通安全1\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/nulpxMl5yrQ?t=264s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n</li>\n<li class=\"title style-scope ytd-video-primary-info-renderer\">集美劇場-118交通安全2\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/WReIIZdIww8\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n</li>\n<li class=\"title style-scope ytd-video-primary-info-renderer\">遊戲安全宣導1\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/LjStoPBy9hs\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</li>\n<li>遊戲安全宣導2\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/LjStoPBy9hs\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</li>\n<li>遊戲安全宣導\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/LjStoPBy9hs\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</li>\n<li class=\"title style-scope ytd-video-primary-info-renderer\">集美劇場 94玩得安全\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/xlzyjdxeCnE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n</li>\n</ol>",
+            "author": {
+                "name": "jianyinli"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-17T20:54:07+08:00",
+            "date_modified": "2020-10-17T21:19:08+08:00"
+        },
+        {
             "id": "https://adlerlei.github.io/jmes_traffic/jiao-tong-an-quan-wu-da-yun-dong-2.html",
             "url": "https://adlerlei.github.io/jmes_traffic/jiao-tong-an-quan-wu-da-yun-dong-2.html",
             "title": "交通安全五大運動",
@@ -58,49 +72,57 @@
             "id": "https://adlerlei.github.io/jmes_traffic/huo-dong-jian-ying.html",
             "url": "https://adlerlei.github.io/jmes_traffic/huo-dong-jian-ying.html",
             "title": "活動剪影",
+            "summary": "活動剪影108交通安全教育成果_集美國小",
+            "content_html": "<h2>活動剪影</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://adlerlei.github.io/jmes_traffic/media/posts/33/clip-online-conference-1.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://adlerlei.github.io/jmes_traffic/media/posts/33/responsive/clip-online-conference-1-xs.png 300w ,https://adlerlei.github.io/jmes_traffic/media/posts/33/responsive/clip-online-conference-1-sm.png 480w ,https://adlerlei.github.io/jmes_traffic/media/posts/33/responsive/clip-online-conference-1-md.png 768w\"  alt=\"\" width=\"912\" height=\"912\"></figure>\n<p><span style=\"text-decoration: underline;\"><a href=\"https://www.jmes.ntpc.edu.tw/var/file/0/1000/img/31/251445307.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">108交通安全教育成果_集美國小</a></span></p>",
             "author": {
                 "name": "jianyinli"
             },
             "tags": [
             ],
             "date_published": "2020-10-10T22:12:16+08:00",
-            "date_modified": "2020-10-10T22:12:16+08:00"
+            "date_modified": "2020-10-17T21:27:00+08:00"
         },
         {
             "id": "https://adlerlei.github.io/jmes_traffic/gao-nian-ji-jiao-an.html",
             "url": "https://adlerlei.github.io/jmes_traffic/gao-nian-ji-jiao-an.html",
             "title": "高年級教案",
+            "summary": "高年級教案連結交通安全學習手冊　國小5年級交通安全學習手冊　國小6年級",
+            "content_html": "<h2>高年級教案連結</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://adlerlei.github.io/jmes_traffic/media/posts/32/lime-page-not-found.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://adlerlei.github.io/jmes_traffic/media/posts/32/responsive/lime-page-not-found-xs.png 300w ,https://adlerlei.github.io/jmes_traffic/media/posts/32/responsive/lime-page-not-found-sm.png 480w ,https://adlerlei.github.io/jmes_traffic/media/posts/32/responsive/lime-page-not-found-md.png 768w\"  alt=\"\" width=\"1216\" height=\"912\"></figure>\n<ol>\n<li class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/1906121100639\" target=\"_blank\" rel=\"noopener noreferrer\">交通安全學習手冊　國小5年級</a></li>\n<li>\n<p class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/1906121100640\" target=\"_blank\" rel=\"noopener noreferrer\">交通安全學習手冊　國小6年級</a></p>\n</li>\n</ol>",
             "author": {
                 "name": "jianyinli"
             },
             "tags": [
             ],
             "date_published": "2020-10-10T22:11:40+08:00",
-            "date_modified": "2020-10-10T22:11:40+08:00"
+            "date_modified": "2020-10-17T20:46:21+08:00"
         },
         {
             "id": "https://adlerlei.github.io/jmes_traffic/zhong-nian-ji-jiao-an.html",
             "url": "https://adlerlei.github.io/jmes_traffic/zhong-nian-ji-jiao-an.html",
             "title": "中年級教案",
+            "summary": "中年級教案連結交通安全學習手冊　國小3年級交通安全學習手冊　國小4年級 ",
+            "content_html": "<h2>中年級教案連結</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://adlerlei.github.io/jmes_traffic/media/posts/31/arabica-1022.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://adlerlei.github.io/jmes_traffic/media/posts/31/responsive/arabica-1022-xs.png 300w ,https://adlerlei.github.io/jmes_traffic/media/posts/31/responsive/arabica-1022-sm.png 480w ,https://adlerlei.github.io/jmes_traffic/media/posts/31/responsive/arabica-1022-md.png 768w\"  alt=\"\" width=\"1216\" height=\"912\"></figure>\n<ol>\n<li class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/1906121100637\" target=\"_blank\" rel=\"noopener noreferrer\">交通安全學習手冊　國小3年級</a></li>\n<li class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/1906121100638\" target=\"_blank\" rel=\"noopener noreferrer\">交通安全學習手冊　國小4年級</a></li>\n</ol>\n<p> </p>",
             "author": {
                 "name": "jianyinli"
             },
             "tags": [
             ],
             "date_published": "2020-10-10T22:11:18+08:00",
-            "date_modified": "2020-10-10T22:11:18+08:00"
+            "date_modified": "2020-10-17T18:32:20+08:00"
         },
         {
             "id": "https://adlerlei.github.io/jmes_traffic/di-nian-ji-jiao-an.html",
             "url": "https://adlerlei.github.io/jmes_traffic/di-nian-ji-jiao-an.html",
             "title": "低年級教案",
+            "summary": "低年級教案連結交通安全學習手冊　國小1年級交通安全學習手冊　國小2年級國民小學交通安全教育【行人安全】教案",
+            "content_html": "<h2 class=\"p1\">低年級教案連結</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://adlerlei.github.io/jmes_traffic/media/posts/30/fogg-879.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://adlerlei.github.io/jmes_traffic/media/posts/30/responsive/fogg-879-xs.png 300w ,https://adlerlei.github.io/jmes_traffic/media/posts/30/responsive/fogg-879-sm.png 480w ,https://adlerlei.github.io/jmes_traffic/media/posts/30/responsive/fogg-879-md.png 768w\"  alt=\"\" width=\"1367\" height=\"912\"></figure>\n<ol>\n<li class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/\" target=\"_blank\" rel=\"noopener noreferrer\">交通安全學習手冊　國小1年級</a></li>\n<li class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/1906121100636\" target=\"_blank\" rel=\"noopener noreferrer\">交通安全學習手冊　國小2年級</a></li>\n<li class=\"title\"><a href=\"https://168.motc.gov.tw/theme/teach_sch_2/post/1906121104389\" target=\"_blank\" rel=\"noopener noreferrer\">國民小學交通安全教育【行人安全】教案</a></li>\n</ol>",
             "author": {
                 "name": "jianyinli"
             },
             "tags": [
             ],
             "date_published": "2020-10-10T22:10:57+08:00",
-            "date_modified": "2020-10-10T22:10:57+08:00"
+            "date_modified": "2020-10-17T18:27:57+08:00"
         },
         {
             "id": "https://adlerlei.github.io/jmes_traffic/jiao-tong-an-quan-jiao-xue-jiao-an.html",
@@ -125,20 +147,6 @@
             ],
             "date_published": "2020-10-10T22:10:06+08:00",
             "date_modified": "2020-10-10T22:10:06+08:00"
-        },
-        {
-            "id": "https://adlerlei.github.io/jmes_traffic/zui-jin-san-nian-qi-ta-te-shu-chuang-xin-huo-you-liang-shi-ji.html",
-            "url": "https://adlerlei.github.io/jmes_traffic/zui-jin-san-nian-qi-ta-te-shu-chuang-xin-huo-you-liang-shi-ji.html",
-            "title": "最近三年學校有其他特殊、創新或優良事蹟",
-            "summary": "最近三年學校有其他特殊、創新或優良事蹟新北市三重區集美國小交通考照活動",
-            "content_html": "<h2 class=\"p1\">最近三年學校有其他特殊、創新或優良事蹟</h2>\n<h3 class=\"p1\">新北市三重區集美國小交通考照活動</h3>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong01.jpg\" data-size=\"1200x1011\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong01-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"607\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong02.jpg\" data-size=\"1200x1011\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong02-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"607\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong03.jpg\" data-size=\"1086x836\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong03-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"554\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong04.jpg\" data-size=\"1669x2354\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong04-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1016\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong05.jpg\" data-size=\"1669x2354\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong05-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1016\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong06.jpg\" data-size=\"1669x2354\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong06-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1016\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong07.jpg\" data-size=\"1669x2354\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong07-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1016\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong08.jpg\" data-size=\"1669x2354\"><img loading=\"lazy\" src=\"https://adlerlei.github.io/jmes_traffic/media/posts/27/gallery/4-2-1-Xin-Bei-Shi-San-Chong-Qu-Ji-Mei-Guo-Xiao-Jiao-Tong-Kao-Zhao-Huo-Dong08-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1016\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "jianyinli"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-10-10T22:09:36+08:00",
-            "date_modified": "2020-10-15T20:41:16+08:00"
         }
     ]
 }
